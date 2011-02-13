@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Full Text Content
- * Description: Loads the full text of a feed for feeds that use short
- * summaries.
- * Version: 0.1
+ * Full Text Content
+ *
+ * Loads the full text of a feed for feeds that use short summaries.
+ * @version 0.1
  */
 
 define('FULLTEXTCONTENT_DIR', dirname(__FILE__));
